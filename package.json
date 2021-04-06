@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cbalieiro/SAP005-midterm-hackthon.git"
+    "url": "git+https://github.com/BiancaSherika/onde-assistir.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cbalieiro/SAP005-midterm-hackthon/issues"
+    "url": "https://github.com/BiancaSherika/onde-assistir/issues"
   },
-  "homepage": "https://github.com/cbalieiro/SAP005-midterm-hackthon#readme"
+  "homepage": "https://github.com/BiancaSherika/onde-assistir"
 }
