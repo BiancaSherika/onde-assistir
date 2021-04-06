@@ -164,10 +164,10 @@ Nas histórias de Usuário que baseamos nossa aplicação são:
 
 :octocat: Este projeto foi desenvolvido com muito carinho pelas desenvolvedoras:
 
-:princess: <a href=“www.github.com/BiancaSherika“> Bianca Shérika</a><br/>
-:princess: <a href=“www.github.com/cbalieiro>Camila Oliveira</a><br/>
-:princess: <a href=“www.github.com/akemimeka>Akemi Mitsueda</a><br/>
-:princess: <a href=“www.github.com/carolineshimada>Caroline Shimada</a><br/>
-:princess: <a href=“www.github.com/Costahadassa>Hadassa Costa</a><br/>
-:princess: <a href=“www.github.com/kauanaagostini>Kauana Agostini</a><br/>
-:princess: <a href=“www.github.com/Lucilaxavier>Lucila Xavier</a><br/>
+:princess: <a href=“https://github.com/BiancaSherika“> Bianca Shérika</a><br/>
+:princess: <a href=“https://github.com/cbalieiro>Camila Oliveira</a><br/>
+:princess: <a href=“https://github.com/akemimeka>Akemi Mitsueda</a><br/>
+:princess: <a href=“https://github.com/carolineshimada>Caroline Shimada</a><br/>
+:princess: <a href=“https://github.com/Costahadassa>Hadassa Costa</a><br/>
+:princess: <a href=“https://github.com/kauanaagostini>Kauana Agostini</a><br/>
+:princess: <a href=“https://github.com/Lucilaxavier>Lucila Xavier</a><br/>
